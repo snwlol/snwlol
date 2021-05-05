@@ -1,0 +1,42 @@
+# Site settings
+title:          snwlol
+description:    ""
+url:            https://github.com/snwlol/snwlol
+
+# Author
+author:
+  name:         Ron Wake
+  email:        snwlol@protonmail.com
+  url:          https://snwlol.com
+
+# Build settings
+markdown:       kramdown
+include: 
+  - _pages
+
+# Assets
+sass:
+  sass_dir:     _sass
+  style:        compressed
+
+# Gems
+plugins:
+  - jekyll-feed
+  - jekyll-paginate
+  # - jemoji #Uncomment this to allow emoji in your post
+
+# Permalinks
+permalink:      /:year-:month-:day/:title
+paginate:       5
+
+# Related posts settings
+related_posts_section:
+  max_count:        5
+  min_common_tags:  2
+
+# Links to social media
+social:
+  email: snwlol@protonmail.com
+  github: https://github.com/snwlol
+  twitter: https://twitter.com/snwlol
+  linkedin: https://www.linkedin.com/in/ronsnwlol
