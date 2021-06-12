@@ -5,13 +5,13 @@ author: "Ron"
 permalink: /about/
 ---
 
-Hi! My name is Ron, I go by my alias "snwlol" online. I'm a professional security analyst/engineer.  
+Hi! My name is Ron, (they/them), I go by my alias "snwlvl" online. I'm a professional security analyst/engineer. 
 
 ## my socials
-- twitter: [@snwlol](https://twitter.com/snwlol)
-- github: [snwlol](https://github.com/snwlol)
-- linkedin: [Ron](https://www.linkedin.com/in/ronsnwlol/)
-- hackerone: [snwlol](https://hackerone.com/snwlol)
-- bugcrowd: [snwlol](https://bugcrowd.com/snwlol)
+- twitter: [@snwlvl](https://twitter.com/snwlvl)
+- github: [snwlvl](https://github.com/snwlvl)
+- linkedin: [Ron](https://www.linkedin.com/in/ronsnwlvl/)
+- hackerone: [snwlvl](https://hackerone.com/snwlvl)
+- bugcrowd: [snwlvl](https://bugcrowd.com/snwlvl)
 
 Thanks for reading!
